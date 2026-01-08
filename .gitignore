@@ -1,5 +1,6 @@
 config.json
 launcher.spec
-_pycache__/
+__pycache__/
 build/
 dist/
+.env
